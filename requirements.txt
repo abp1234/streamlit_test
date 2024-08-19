@@ -31,11 +31,11 @@ OpenDartReader==0.2.3
 packaging==24.1
 paho-mqtt==2.1.0
 pandas==2.2.2
-Pillow==8.0.0
+pillow==10.4.0
 plotly==5.23.0
 protobuf==5.27.3
 pyarrow==17.0.0
-sounddevice==0.4.5
+PyAudio==0.2.14
 pydeck==0.9.1
 pydub==0.25.1
 Pygments==2.18.0
@@ -48,7 +48,7 @@ requests==2.32.3
 requests-file==2.1.0
 rich==13.7.1
 rpds-py==0.20.0
-setuptools==71.0.1
+setuptools==72.2.0
 six==1.16.0
 smmap==5.0.1
 soupsieve==2.6
