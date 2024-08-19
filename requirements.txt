@@ -31,7 +31,7 @@ OpenDartReader==0.2.3
 packaging==24.1
 paho-mqtt==2.1.0
 pandas==2.2.2
-Pillow-SIMD==7.2.0
+Pillow==8.0.0
 plotly==5.23.0
 protobuf==5.27.3
 pyarrow==17.0.0
