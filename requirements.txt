@@ -31,10 +31,10 @@ OpenDartReader==0.2.3
 packaging==24.1
 paho-mqtt==2.1.0
 pandas==2.2.2
-pillow==10.4.0
+pillow==10.4.0a
 protobuf==5.27.3
 pyarrow==17.0.0
-PyAudio==0.2.14
+
 pydeck==0.9.1
 pydub==0.25.1
 Pygments==2.18.0
